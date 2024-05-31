@@ -1,0 +1,87 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 1
+            [name] => Product 1
+            [price] => 10
+        )
+
+    [1] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+    [2] => stdClass Object
+        (
+            [id] => 3
+            [name] => Product 3
+            [price] => 20
+        )
+
+    [3] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+    [4] => stdClass Object
+        (
+            [id] => 1
+            [name] => Product 1
+            [price] => 10
+        )
+
+    [5] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+    [6] => stdClass Object
+        (
+            [id] => 3
+            [name] => Product 3
+            [price] => 20
+        )
+
+    [7] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+    [8] => stdClass Object
+        (
+            [id] => 1
+            [name] => Product 1
+            [price] => 10
+        )
+
+    [9] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+    [10] => stdClass Object
+        (
+            [id] => 1
+            [name] => Product 1
+            [price] => 10
+        )
+
+    [11] => stdClass Object
+        (
+            [id] => 2
+            [name] => Product 2
+            [price] => 15
+        )
+
+)
